@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=GND Pin=siwa1-1
+Removed Pin From Net: NetName=GPIO3 Pin=siwa1-5
+Removed Pin From Net: NetName=Alimentación 1V Pin=siwa1-6
+Removed Pin From Net: NetName=Alimentación 1V Pin=siwa1-7
+Removed Pin From Net: NetName=GPIO2 Pin=siwa1-8
+Added Pin To Net: NetName=GPIO3 Pin=siwa1-1
+Added Pin To Net: NetName=Alimentación 1V Pin=siwa1-2
+Added Pin To Net: NetName=Alimentación 1V Pin=siwa1-3
+Added Pin To Net: NetName=GPIO2 Pin=siwa1-4
+Added Pin To Net: NetName=Alimentación 1.8V Pin=siwa1-5
+Added Pin To Net: NetName=GPIO1 Pin=siwa1-6
+Added Pin To Net: NetName=GPIO0 Pin=siwa1-7
+Added Pin To Net: NetName=GND Pin=siwa1-8
+Added Pin To Net: NetName=GND Pin=siwa2-1
+Added Pin To Net: NetName=GPIO4 Pin=siwa2-2
+Added Pin To Net: NetName=GPIO5 Pin=siwa2-3
+Added Pin To Net: NetName=Alimentación 1.8V Pin=siwa2-4
+Added Pin To Net: NetName=GPIO6 Pin=siwa2-5
+Added Pin To Net: NetName=Alimentación 1V Pin=siwa2-6
+Added Pin To Net: NetName=Alimentación 1V Pin=siwa2-7
+Added Pin To Net: NetName=GPIO7 Pin=siwa2-8
+Added Pin To Net: NetName=GND Pin=siwa3-1
+Added Pin To Net: NetName=Alimentación 1.8V Pin=siwa3-2
+Added Pin To Net: NetName=CLK de SIWA Pin=siwa3-3
+Added Pin To Net: NetName=POC_CONTROL Pin=siwa3-4
+Added Pin To Net: NetName=MAIP Pin=siwa3-5
+Added Pin To Net: NetName=RESET SIWA Pin=siwa3-6
+Added Pin To Net: NetName=Alimentación 1V Pin=siwa3-7
+Added Pin To Net: NetName=SCS SPI Chip Select Pin=siwa3-8
+Added Pin To Net: NetName=GND Pin=siwa4-1
+Added Pin To Net: NetName=UART_TX Pin=siwa4-2
+Added Pin To Net: NetName=Alimentación 1V Pin=siwa4-3
+Added Pin To Net: NetName=UART_RX Pin=siwa4-4
+Added Pin To Net: NetName=Alimentación 1.8V Pin=siwa4-5
+Added Pin To Net: NetName=SCLK Pin=siwa4-6
+Added Pin To Net: NetName=MOSI Pin=siwa4-7
+Added Pin To Net: NetName=MISO Pin=siwa4-8
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=Alimentación 3V Pin=U1-4
