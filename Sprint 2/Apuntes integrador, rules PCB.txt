@@ -1,0 +1,7 @@
+Radio de la vía: r_v > 300um (12 mils, idealmente 15 mils)
+Radio del pad: r_p > 425um (17 mils, idealmente 20 mils)
+Radio del antipad: r_a > 550um (22 mils, idealmente 25 mils)
+
+En el Stack-Up, el ancho de la capa del dieléctrico, debe ser de alrededor de 40 mils.
+
+Rule: Clearence entre una línea y un true-hole debe haber al menos 150um, approx 6 mils
