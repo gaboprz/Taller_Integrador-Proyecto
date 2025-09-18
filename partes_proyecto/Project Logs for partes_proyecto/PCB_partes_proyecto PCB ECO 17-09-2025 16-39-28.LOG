@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NC Pin=Header extr-8
+Added Pin To Net: NetName=NC Pin=Header extr-5
+Added Pin To Net: NetName=RESET integrado Pin=Header extr-8
+Added Net: Name=RESET integrado

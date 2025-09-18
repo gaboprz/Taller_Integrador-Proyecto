@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NC Pin=Header extr-39
+Added Member To Class: ClassName=partes_proyecto Member=Component Crystal Oscillator ASE3-20.000MHZ-KT
+Added Member To Class: ClassName=partes_proyecto Member=Component P4 61200821621
+Added Member To Class: ClassName=partes_proyecto Member=Component siwa1 PPPC081LFBN-RC
+Added Member To Class: ClassName=partes_proyecto Member=Component siwa2 PPPC081LFBN-RC
+Added Member To Class: ClassName=partes_proyecto Member=Component siwa4 PPPC081LFBN-RC
+Added Member To Class: ClassName=partes_proyecto Member=Component U3 PL133-37TI-R

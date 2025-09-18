@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=Fanout Buffer NewDesignator=U3
+Change Component Designator: OldDesignator=Regulador 1V NewDesignator=U6
+Added Member To Class: ClassName=partes_proyecto Member=Component C_desacople_2 CC0603KRX7R7BB104
+Added Member To Class: ClassName=partes_proyecto Member=Component C_IN_ CC0805KKX7R7BB105
+Added Member To Class: ClassName=partes_proyecto Member=Component P4 61200821621
+Added Member To Class: ClassName=partes_proyecto Member=Component siwa1 PPPC081LFBN-RC

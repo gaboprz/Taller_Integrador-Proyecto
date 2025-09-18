@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=Fuente 3.3V Pin=P3-6
+Removed Pin From Net: NetName=Alimentación 1V Pin=P3-7
+Removed Member From Class: ClassName=Power Member=GND
+Added Pin To Net: NetName=Alimentación 1V Pin=P3-6
+Added Pin To Net: NetName=Fuente 3.3V Pin=P3-7
+Added Member To Class: ClassName=partes_proyecto Member=Component C_BP_ 10nF
+Added Member To Class: ClassName=partes_proyecto Member=Component C_des_2 1uF
+Added Member To Class: ClassName=partes_proyecto Member=Component C_des_3 1uF
+Added Member To Class: ClassName=partes_proyecto Member=Component C_des_7 1uF
+Added Member To Class: ClassName=partes_proyecto Member=Component C_des_8 1uF
+Added Member To Class: ClassName=partes_proyecto Member=Component C_des_9 1uF
+Added Member To Class: ClassName=partes_proyecto Member=Component C_desacople_1 CC0603KRX7R7BB104
+Added Member To Class: ClassName=partes_proyecto Member=Component C_desacople_3 CC0603KRX7R7BB104
+Added Member To Class: ClassName=partes_proyecto Member=Component C_desacople_22 CC0603KRX7R7BB104
+Added Member To Class: ClassName=partes_proyecto Member=Component C_IN3 1uF
+Added Member To Class: ClassName=partes_proyecto Member=Component C_IN 1uF
+Added Member To Class: ClassName=partes_proyecto Member=Component C_OUT 1uF
+Added Member To Class: ClassName=partes_proyecto Member=Component D8 150120BS75000
+Added Member To Class: ClassName=partes_proyecto Member=Component P4 61200821621
+Added Member To Class: ClassName=partes_proyecto Member=Component Regulador 1.8V MAX8510EXK18+T
+Added Member To Class: ClassName=partes_proyecto Member=Component U7 74LVC2G17GW,125
+Added Member To Class: ClassName=partes_proyecto Member=Component U9 74LVC2G17GW,125
