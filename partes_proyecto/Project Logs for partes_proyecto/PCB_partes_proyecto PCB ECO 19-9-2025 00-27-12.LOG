@@ -1,0 +1,63 @@
+Change Component Comment : Designator=U4 Old Comment=Buffer New Comment=74LVC2G17GW,125
+Change Component Comment : Designator=U5 Old Comment=Buffer New Comment=74LVC2G17GW,125
+Change Component Comment : Designator=U7 Old Comment=Buffer New Comment=74LVC2G17GW,125
+Change Component Comment : Designator=U8 Old Comment=Buffer New Comment=74LVC2G17GW,125
+Change Component Comment : Designator=U9 Old Comment=Buffer New Comment=74LVC2G17GW,125
+Change Component Comment : Designator=C_BP22 Old Comment=C103 New Comment=10nF
+Change Component Comment : Designator=C_BP Old Comment=C103 New Comment=10nF
+Change Component Comment : Designator=C_BP_ Old Comment=C103 New Comment=10nF
+Change Component Comment : Designator=C_desacople_1 Old Comment=C104 New Comment=CC0603KRX7R7BB104
+Change Component Comment : Designator=C_desacople_2 Old Comment=C104 New Comment=CC0603KRX7R7BB104
+Change Component Comment : Designator=C_desacople_3 Old Comment=C104 New Comment=CC0603KRX7R7BB104
+Change Component Comment : Designator=C_desacople_4 Old Comment=C104 New Comment=CC0603KRX7R7BB104
+Change Component Comment : Designator=C_desacople_22 Old Comment=C104 New Comment=CC0603KRX7R7BB104
+Change Component Comment : Designator=C_des_1 Old Comment=C105 New Comment=1uF
+Change Component Comment : Designator=C_des_2 Old Comment=C105 New Comment=1uF
+Change Component Comment : Designator=C_des_3 Old Comment=C105 New Comment=1uF
+Change Component Comment : Designator=C_des_4 Old Comment=C105 New Comment=1uF
+Change Component Comment : Designator=C_des_5 Old Comment=C105 New Comment=1uF
+Change Component Comment : Designator=C_des_6 Old Comment=C105 New Comment=1uF
+Change Component Comment : Designator=C_des_7 Old Comment=C105 New Comment=1uF
+Change Component Comment : Designator=C_des_8 Old Comment=C105 New Comment=1uF
+Change Component Comment : Designator=C_des_9 Old Comment=C105 New Comment=1uF
+Change Component Comment : Designator=C_des_10 Old Comment=C105 New Comment=1uF
+Change Component Comment : Designator=C_IN3 Old Comment=C105 New Comment=1uF
+Change Component Comment : Designator=C_IN4 Old Comment=C105 New Comment=1uF
+Change Component Comment : Designator=C_IN Old Comment=C105 New Comment=1uF
+Change Component Comment : Designator=C_OUT Old Comment=C105 New Comment=1uF
+Change Component Comment : Designator=C_OUT_ Old Comment=C105 New Comment=1uF
+Change Component Comment : Designator=C_IN_ Old Comment=C105 New Comment=CC0805KKX7R7BB105
+Change Component Comment : Designator=D1 Old Comment=D New Comment=150120BS75000
+Change Component Comment : Designator=D2 Old Comment=D New Comment=150120BS75000
+Change Component Comment : Designator=D3 Old Comment=D New Comment=150120BS75000
+Change Component Comment : Designator=D4 Old Comment=D New Comment=150120BS75000
+Change Component Comment : Designator=D5 Old Comment=D New Comment=150120BS75000
+Change Component Comment : Designator=D6 Old Comment=D New Comment=150120BS75000
+Change Component Comment : Designator=D7 Old Comment=D New Comment=150120BS75000
+Change Component Comment : Designator=D8 Old Comment=D New Comment=150120BS75000
+Change Component Comment : Designator=U3 Old Comment=F_Buffer New Comment=PL133-37TI-R
+Change Component Comment : Designator=j1 Old Comment=Flash New Comment=1-2199298-2
+Change Component Comment : Designator=P1 Old Comment=GPIO 0-3 New Comment=61200821621
+Change Component Comment : Designator=P2 Old Comment=GPIO 4-7 New Comment=61200821621
+Change Component Comment : Designator=Header extr Old Comment=H40 New Comment=61204021621
+Change Component Comment : Designator=Crystal Oscillator Old Comment=Oscillator New Comment=ASE3-20.000MHZ-KT
+Change Component Comment : Designator=R1 Old Comment=R101 New Comment=10
+Change Component Comment : Designator=R2 Old Comment=R101 New Comment=10
+Change Component Comment : Designator=R3 Old Comment=R101 New Comment=10
+Change Component Comment : Designator=R4 Old Comment=R101 New Comment=10
+Change Component Comment : Designator=R5 Old Comment=R101 New Comment=10
+Change Component Comment : Designator=R6 Old Comment=R101 New Comment=10
+Change Component Comment : Designator=R7 Old Comment=R101 New Comment=10
+Change Component Comment : Designator=R8 Old Comment=R101 New Comment=10
+Change Component Comment : Designator=Regulador 1.8V Old Comment=R_1.8V New Comment=MAX8510EXK18+T
+Change Component Comment : Designator=U6 Old Comment=R_1V New Comment=TPS71710DCKT
+Change Component Comment : Designator=Regulador 3V Old Comment=R_3V New Comment=MAX8510EXK30+T
+Change Component Comment : Designator=U1 Old Comment=Reset New Comment=APX812-29UG7
+Change Component Comment : Designator=P4 Old Comment=Screen New Comment=61200821621
+Change Component Comment : Designator=siwa4 Old Comment=SIWA_D New Comment=PPPC081LFBN-RC
+Change Component Comment : Designator=siwa1 Old Comment=SIWA_L New Comment=PPPC081LFBN-RC
+Change Component Comment : Designator=siwa3 Old Comment=SIWA_R New Comment=PPPC081LFBN-RC
+Change Component Comment : Designator=siwa2 Old Comment=SIWA_U New Comment=PPPC081LFBN-RC
+Change Component Comment : Designator=P3 Old Comment=Sources New Comment=61200821621
+Change Component Comment : Designator=SW1 Old Comment=SW New Comment=B3F-1000
+Added Pin To Net: NetName=GND Pin=P4-8

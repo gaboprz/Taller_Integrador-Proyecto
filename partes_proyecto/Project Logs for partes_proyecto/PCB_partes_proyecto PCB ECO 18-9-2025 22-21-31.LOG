@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=Power Member=Alimentación ext 1.8V
+Removed Member From Class: ClassName=Power Member=Alimentación ext 1V
+Removed Member From Class: ClassName=Power Member=Alimentación ext 3V
+Removed Member From Class: ClassName=Power Member=GND
+Added Member To Class: ClassName=partes_proyecto Member=Component D3 150120BS75000
+Added Member To Class: ClassName=partes_proyecto Member=Component R1 10
+Added Member To Class: ClassName=partes_proyecto Member=Component R2 10
