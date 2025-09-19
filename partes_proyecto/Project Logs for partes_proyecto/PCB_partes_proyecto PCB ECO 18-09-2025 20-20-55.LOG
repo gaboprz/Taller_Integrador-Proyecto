@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=GND Pin=Header extr-15
+Added Pin To Net: NetName=RESET externo Pin=Header extr-15

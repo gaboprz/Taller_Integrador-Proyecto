@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NC Pin=Header extr-20
+Removed Pin From Net: NetName=NC Pin=Header extr-22
+Removed Pin From Net: NetName=CLK de SIWA Pin=Header extr-38
+Removed Pin From Net: NetName=CLK0 Pin=Header extr-40
+Added Pin To Net: NetName=CLK de SIWA Pin=Header extr-20
+Added Pin To Net: NetName=CLK0 Pin=Header extr-22

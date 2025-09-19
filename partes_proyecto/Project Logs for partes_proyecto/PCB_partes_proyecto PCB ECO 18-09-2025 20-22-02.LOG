@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=Header extr-19
+Removed Pin From Net: NetName=GND Pin=Header extr-21
+Added Pin To Net: NetName= CLk ext Pin=Header extr-19
+Added Net: Name= CLk ext
+Added Pin To Net: NetName=CLk ext Pin=Header extr-21
+Added Net: Name=CLk ext

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=Header extr-36
+Removed Pin From Net: NetName=GND Pin=Header extr-38
+Removed Pin From Net: NetName=GND Pin=Header extr-40
+Added Pin To Net: NetName=Alimentación 1.8V Pin=Header extr-36
+Added Pin To Net: NetName=Alimentación 1V Pin=Header extr-38
+Added Pin To Net: NetName=Alimentación 3V Pin=Header extr-40
+Change Net Name : Old Net Name=Alimentación ext 1.8V New Net Name=Alimentación ext 1V
+Change Net Name : Old Net Name=Alimentación ext 1V New Net Name=Alimentación ext 1.8V
+Added Member To Class: ClassName=partes_proyecto Member=Component U3 PL133-37TI-R

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=Header extr-31
+Removed Pin From Net: NetName=GND Pin=Header extr-33
+Removed Pin From Net: NetName=GND Pin=Header extr-34
+Removed Pin From Net: NetName=Alimentación 1.8V Pin=Header extr-36
+Removed Pin From Net: NetName=Alimentación ext 1V Pin=Header extr-37
+Added Pin To Net: NetName=Alimentación ext 1V Pin=Header extr-31
+Added Pin To Net: NetName=Alimentación ext 1V Pin=Header extr-33
+Added Pin To Net: NetName=Alimentación 1.8V Pin=Header extr-34
+Added Pin To Net: NetName=Alimentación ext 1.8V Pin=Header extr-36
+Added Pin To Net: NetName=Alimentación ext 3V Pin=Header extr-37

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=RESET SIWA Pin=Header extr-10
+Removed Pin From Net: NetName=Reset integrado Pin=Header extr-12
+Removed Pin From Net: NetName=MAIP Pin=Header extr-14
+Removed Pin From Net: NetName=POC_CONTROL Pin=Header extr-16
+Added Pin To Net: NetName=MAIP Pin=Header extr-10
+Added Pin To Net: NetName=POC_CONTROL Pin=Header extr-12

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NC Pin=Header extr-10
+Removed Pin From Net: NetName=NC Pin=Header extr-12
+Added Pin To Net: NetName=RESET SIWA Pin=Header extr-10
+Added Pin To Net: NetName=Reset integrado Pin=Header extr-12
+Added Net: Name=Reset integrado

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NC Pin=Header extr-14
+Removed Pin From Net: NetName=NC Pin=Header extr-16
+Added Pin To Net: NetName=MAIP Pin=Header extr-14
+Added Pin To Net: NetName=POC_CONTROL Pin=Header extr-16

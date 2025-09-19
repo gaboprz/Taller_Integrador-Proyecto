@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NC Pin=Header extr-2
+Removed Pin From Net: NetName=RESET SIWA Pin=Header extr-4
+Removed Pin From Net: NetName=GND Pin=Header extr-6
+Added Pin To Net: NetName=SCLK Pin=Header extr-2
+Added Pin To Net: NetName=MOSI Pin=Header extr-4
+Added Pin To Net: NetName=SCS SPI Chip Select Pin=Header extr-6
+Added Pin To Net: NetName=MISO Pin=Header extr-8

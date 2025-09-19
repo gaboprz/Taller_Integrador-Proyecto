@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=CLK de SIWA Pin=Header extr-6
+Removed Pin From Net: NetName=NC Pin=Header extr-38
+Added Pin To Net: NetName=GND Pin=Header extr-6
+Added Pin To Net: NetName=CLK de SIWA Pin=Header extr-38
+Added Member To Class: ClassName=partes_proyecto Member=Component U1 APX812-29UG7

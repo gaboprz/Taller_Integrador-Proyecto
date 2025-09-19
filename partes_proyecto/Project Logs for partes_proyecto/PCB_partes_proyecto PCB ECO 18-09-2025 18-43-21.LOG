@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=Power Member=Alimentación externa de 1.8V
+Removed Member From Class: ClassName=Power Member=Alimentación externa de 3V
+Change Net Name : Old Net Name=Alimentación externa de 1.8V New Net Name=Alimentación ext 1.8V
+Change Net Name : Old Net Name=Alimentación externa de 3V New Net Name=Alimentación ext 3V
+Added Pin To Net: NetName=Alimentación ext 1V Pin=Header extr-35
+Added Net: Name=Alimentación ext 1V

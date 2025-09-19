@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NC Pin=Header extr-1
+Removed Pin From Net: NetName=GND Pin=Header extr-3
+Added Pin To Net: NetName=UART_RX Pin=Header extr-1
+Added Pin To Net: NetName=UART_TX Pin=Header extr-3
+Added Member To Class: ClassName=partes_proyecto Member=Component Header extr 61204021621
