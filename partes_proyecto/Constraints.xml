@@ -2,18 +2,19 @@
 <ConstraintsData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <FlattenedNetName2ConstraintNetId>
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="Alimentación 1.8V" ConstraintNetId="76014141-fe82-4bfd-bc83-a1b669d4dc99" />
-    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="Alimentación 1V" ConstraintNetId="f3f07e83-96df-4845-9b03-bcd3e7fba080" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="GND" ConstraintNetId="23f4326d-2d56-49da-9dfc-473820477a0d" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="Alimentación 3V" ConstraintNetId="224dba19-3a06-4b0f-8233-99ecec3e22dd" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="Alimentación ext 1.8V" ConstraintNetId="305d19d9-f9ef-4eaa-9864-b1e511921aab" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="Alimentación ext 1V" ConstraintNetId="9b9235fc-1a22-4844-aeda-7ddcde591de7" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="Alimentación ext 3V" ConstraintNetId="7347fc38-073a-4f1d-9884-d8dde70df94b" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="Fuente 3.3V" ConstraintNetId="838168fa-a49f-440e-9e1d-9cd5c9237fb2" />
-    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="Salida de regulador de 1.8V" ConstraintNetId="715a7877-76dc-458e-989d-ec5df8bb64ea" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="Salida de regulador de 1.8V" ConstraintNetId="d63a4f37-9459-4991-9ed3-12f3dd5a513a" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="Salida de regulador de 1V" ConstraintNetId="166bbf05-e440-4558-8dd8-7649776e38e1" />
-    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="Salida de regulador de 3V" ConstraintNetId="7531bd81-6e8f-4630-89e2-3ac6a9c7d6ff" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="Salida de regulador de 3V" ConstraintNetId="585d54e0-a1b0-4061-805c-070c153e5216" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="RESET externo" ConstraintNetId="8a5b0bbc-6a5d-4fb5-8904-5a19fc65acfe" />
-    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="GND" ConstraintNetId="553d093b-26ce-4650-bf4d-f0809e6d6ca0" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="Alimentación 1V" ConstraintNetId="acd7a2ae-bbb8-4a5c-b3f6-ee64595949dc" />
     <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="CLk ext" ConstraintNetId="ec76fc38-aa37-4382-86ed-92efbaeac497" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="CLK0" ConstraintNetId="351b505a-1b89-4d30-becc-f81225806c44" />
   </FlattenedNetName2ConstraintNetId>
   <CNets>
     <CNet Id="76014141-fe82-4bfd-bc83-a1b669d4dc99">
@@ -22,7 +23,7 @@
       <ConstraintSets />
       <ConstraintNodes />
     </CNet>
-    <CNet Id="f3f07e83-96df-4845-9b03-bcd3e7fba080">
+    <CNet Id="23f4326d-2d56-49da-9dfc-473820477a0d">
       <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
@@ -58,7 +59,7 @@
       <ConstraintSets />
       <ConstraintNodes />
     </CNet>
-    <CNet Id="715a7877-76dc-458e-989d-ec5df8bb64ea">
+    <CNet Id="d63a4f37-9459-4991-9ed3-12f3dd5a513a">
       <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
@@ -70,7 +71,7 @@
       <ConstraintSets />
       <ConstraintNodes />
     </CNet>
-    <CNet Id="7531bd81-6e8f-4630-89e2-3ac6a9c7d6ff">
+    <CNet Id="585d54e0-a1b0-4061-805c-070c153e5216">
       <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
@@ -82,13 +83,19 @@
       <ConstraintSets />
       <ConstraintNodes />
     </CNet>
-    <CNet Id="553d093b-26ce-4650-bf4d-f0809e6d6ca0">
+    <CNet Id="acd7a2ae-bbb8-4a5c-b3f6-ee64595949dc">
       <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
       <ConstraintNodes />
     </CNet>
     <CNet Id="ec76fc38-aa37-4382-86ed-92efbaeac497">
+      <Constraints />
+      <ConstraintsEx />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="351b505a-1b89-4d30-becc-f81225806c44">
       <Constraints />
       <ConstraintsEx />
       <ConstraintSets />
@@ -118,13 +125,9 @@
       <ConstraintSets />
       <CNets>
         <CNet Id="76014141-fe82-4bfd-bc83-a1b669d4dc99" />
-        <CNet Id="f3f07e83-96df-4845-9b03-bcd3e7fba080" />
         <CNet Id="224dba19-3a06-4b0f-8233-99ecec3e22dd" />
         <CNet Id="838168fa-a49f-440e-9e1d-9cd5c9237fb2" />
-        <CNet Id="715a7877-76dc-458e-989d-ec5df8bb64ea" />
         <CNet Id="166bbf05-e440-4558-8dd8-7649776e38e1" />
-        <CNet Id="7531bd81-6e8f-4630-89e2-3ac6a9c7d6ff" />
-        <CNet Id="553d093b-26ce-4650-bf4d-f0809e6d6ca0" />
       </CNets>
       <ObservedDirectiveParamsUniqueIds />
     </CNetClass>
